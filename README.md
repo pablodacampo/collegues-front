@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Travis
 
 Markdown : [![Build Status](https://travis-ci.org/pablodacampo/collegues-front.svg?branch=master)](https://travis-ci.org/pablodacampo/collegues-front)
-Lien : https://travis-ci.org/pablodacampo/collegues-front
+Link : https://travis-ci.org/pablodacampo/collegues-front
